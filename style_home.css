@@ -24,9 +24,9 @@
 
   .navbar_Aqib a:hover {
       margin: 4px 2px;
-    background-color: #ddd;
-    color: black;
-    border-radius: 15px;
+    
+    color: rgb(255, 255, 255);
+   
   }
 
   /* CSS styles for the login and sign-up buttons */
@@ -54,3 +54,5 @@
     background-position: center;
     background-attachment: fixed;
   }
+  
+ 
