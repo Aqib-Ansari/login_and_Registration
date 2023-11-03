@@ -16,16 +16,17 @@
     margin: 4px 2px;
   }
 
-  .navbar_Aqib:hover{
-      background-color: rgba(141, 141, 141,0.5);
+  .navbar_Aqib{
+    background-color: #e8cd89;
     color: rgb(0, 0, 0);
     text-emphasis-color: white;
+    font-family: 'Cormorant Garamond';
+    font-style: 'italic';
   }
 
   .navbar_Aqib a:hover {
       margin: 4px 2px;
-    
-    color: rgb(255, 255, 255);
+      color: #287271;
    
   }
 
@@ -33,6 +34,7 @@
   .button-container {
     text-align: center;
     margin-top: 200px;
+    font-family: 'Cormorant Garamond';
   }
 
   .button-container button {
@@ -42,17 +44,19 @@
     background-color: #4CAF50;
     color: white;
     cursor: pointer;
+    font-family: 'Cormorant Garamond';
   }
-
   .button-container button:hover {
     opacity: 0.8;
+    font-family: 'Cormorant Garamond';
   }
   body {
-    background-image: url('img/background.jpg');
+    /* background-image: url('img/landingpagevideo1.mp4'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
   }
+  
   
  
